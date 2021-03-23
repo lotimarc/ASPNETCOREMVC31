@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Loti.BookStore/.vs/Loti.BookStore
+/Loti.BookStore/Loti.BookStore/bin/Debug/netcoreapp3.1
+/Loti.BookStore/Loti.BookStore/obj
